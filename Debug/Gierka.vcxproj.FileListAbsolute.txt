@@ -1,0 +1,4 @@
+C:\Users\Michał\Desktop\Gierka\Debug\Gierka.exe
+C:\Users\Michał\Desktop\Gierka\Debug\Gierka.pdb
+C:\Users\olabu\Desktop\Gierka\Debug\Gierka.pdb
+C:\Users\olabu\Desktop\Gierka\Debug\Gierka.exe

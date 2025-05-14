@@ -1,0 +1,30 @@
+﻿  Kalkulator.cpp
+C:\Users\olabu\Desktop\Gierka\Kalkulator.cpp(90,13): warning C4244: "inicjowanie": konwersja z "double" do "int", możliwa utrata danych
+  projekt.cpp
+C:\Users\olabu\Desktop\Gierka\przycisk.cpp(17,11): warning C4244: "=": konwersja z "int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\olabu\Desktop\Gierka\przycisk.cpp(18,11): warning C4244: "=": konwersja z "int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+  przycisk.cpp
+C:\Users\olabu\Desktop\Gierka\przycisk.cpp(17,11): warning C4244: "=": konwersja z "int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\olabu\Desktop\Gierka\przycisk.cpp(18,11): warning C4244: "=": konwersja z "int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+  Generowanie kodu...
+C:\Users\olabu\Desktop\Gierka\Kalkulator.cpp(10): warning C4715: "Kalkulator::dodawanie”: niewszystkie ścieżki kodu zwracają wartość
+C:\Users\olabu\Desktop\Gierka\Kalkulator.cpp(56): warning C4715: "Kalkulator::dzielenie”: niewszystkie ścieżki kodu zwracają wartość
+C:\Users\olabu\Desktop\Gierka\Kalkulator.cpp(18): warning C4715: "Kalkulator::odejmowanie”: niewszystkie ścieżki kodu zwracają wartość
+C:\Users\olabu\Desktop\Gierka\Kalkulator.cpp(26): warning C4715: "Kalkulator::mnozenie”: niewszystkie ścieżki kodu zwracają wartość
+  Gierka.vcxproj -> C:\Users\olabu\Desktop\Gierka\Debug\Gierka.exe
